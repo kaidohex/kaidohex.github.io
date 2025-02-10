@@ -335,6 +335,7 @@ DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed
+  jekyll-include-cache
   jekyll-sitemap
   minimal-mistakes-jekyll
   tzinfo (>= 1, < 3)
