@@ -19,7 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap" # Generates a sitemap.xml
 end
 # Adding minimal-mistakes-theme
-gem 'minimal-mistakes-jekyll', '~> 4.26', '>= 4.26.2'
+gem "minimal-mistakes-jekyll"
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
